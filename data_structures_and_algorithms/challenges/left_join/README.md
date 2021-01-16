@@ -1,6 +1,6 @@
 # Hashmap Left Join
 
-## Author: Ahmad Swedani
+
 
 ## Challenge
 Implement a simplified LEFT JOIN for 2 Hashmaps.
