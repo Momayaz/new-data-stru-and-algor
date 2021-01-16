@@ -1,6 +1,6 @@
 # Tree intersection
 
-## Author: ahmad swedani
+
 
 ## Challenge
 Find common values in 2 binary trees.
